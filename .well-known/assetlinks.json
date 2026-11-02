@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alaa998_code.twa",
+        "sha256_cert_fingerprints": ["02:A5:B0:3A:64:F8:DC:56:BB:5B:61:DB:D1:4D:6F:5F:8F:4B:8F:F7:49:F6:E6:BC:A8:CC:AE:65:3C:A6:83:91"]
+      }
+    }]
